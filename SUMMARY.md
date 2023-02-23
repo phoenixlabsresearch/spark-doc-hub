@@ -1,17 +1,17 @@
 # Table of contents
 
 * [Spark Document Hub](README.md)
-* [Spark FAQ](https://app.gitbook.com/o/HFFQ0t9vAuVpIhrDPe1F/s/pwS7kFfG0ZO0qS9A9SpI/)
+* [Spark FAQ](https://docs.sparkprotocol.io/faq)
 * [Community Discord](https://discord.gg/sqDWzqvdUc)
 
-## Governance
+## 📃 Governance
 
 * [Governance Forum](https://forum.makerdao.com/)
-
-## Developers
-
-* [Spark Developer Docs](https://docs.sparkprotocol.io/)
 
 ***
 
 * [Governance Docs](https://manual.makerdao.com/)
+
+## 💻 Developers
+
+* [Spark Developer Docs](https://docs.sparkprotocol.io/developers/)
