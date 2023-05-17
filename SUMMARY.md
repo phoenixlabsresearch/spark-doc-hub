@@ -15,3 +15,8 @@
 ## 💻 Developers
 
 * [Spark Developer Docs](https://docs.sparkprotocol.io/developers/)
+
+## 📡 Analytics
+
+* [BlockAnalitica](https://spark.blockanalitica.com/)
+* [DefiLlama](https://defillama.com/protocol/spark)
