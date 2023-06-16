@@ -7,10 +7,8 @@
 ## 📃 Governance
 
 * [Governance Forum](https://forum.makerdao.com/c/two)
-
-***
-
 * [Governance Docs](https://manual.makerdao.com/)
+* [Grants & Bounties](https://towering-lycra-6ab.notion.site/MakerDAO-subDAO-Grants-Bounties-dc41464b3a1748dbb38f69ff77e1790c?pvs=4)
 
 ## 💻 Developers
 
