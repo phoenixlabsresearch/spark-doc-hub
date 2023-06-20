@@ -18,3 +18,5 @@
 
 * [BlockAnalitica](https://spark.blockanalitica.com/)
 * [DefiLlama](https://defillama.com/protocol/spark)
+* [The Graph (Hosted Service) subgraph](https://thegraph.com/hosted-service/subgraph/messari/spark-lend-ethereum)
+* [The Graph (Arbitrum Indexing) subgraph](https://thegraph.com/explorer/subgraphs/GbKdmBe4ycCYCQLQSjqGg6UHYoYfbyJyq5WrG35pv1si?view=Overview\&chain=arbitrum-one)
