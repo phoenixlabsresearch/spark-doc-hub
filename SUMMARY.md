@@ -20,3 +20,7 @@
 * [DefiLlama](https://defillama.com/protocol/spark)
 * [The Graph (Hosted Service) subgraph](https://thegraph.com/hosted-service/subgraph/messari/spark-lend-ethereum)
 * [The Graph (Arbitrum Indexing) subgraph](https://thegraph.com/explorer/subgraphs/GbKdmBe4ycCYCQLQSjqGg6UHYoYfbyJyq5WrG35pv1si?view=Overview\&chain=arbitrum-one)
+
+## 👷 Ecosystem Actors
+
+* [Phoenix Labs' Job Board](https://phoenix-labs.notion.site/Phoenix-Labs-Job-Board-794d22cacbef4c9c963a5ca4b96d71c8?pvs=4)
