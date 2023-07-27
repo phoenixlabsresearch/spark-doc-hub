@@ -18,3 +18,7 @@
 ## 👷 Ecosystem Actors
 
 * [Phoenix Labs' Job Board](https://phoenix-labs.notion.site/Phoenix-Labs-Job-Board-794d22cacbef4c9c963a5ca4b96d71c8?pvs=4)
+
+## 🗞 Press & Media
+
+* [Brand Assets / Press Kit](press-and-media/brand-assets-press-kit.md)
