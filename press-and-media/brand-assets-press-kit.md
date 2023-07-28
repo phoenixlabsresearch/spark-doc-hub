@@ -1,23 +1,21 @@
 # Brand Assets / Press Kit
 
+ou can find Spark's logotype and logomark in this [Google Drive](https://drive.google.com/drive/folders/14y1Cau0dRW8enY8try2Jt8RKWfBdoDun?usp=sharing)
 
+## Spark Logo
 
-## Spark logo
-
-<table data-view="cards" data-full-width="false"><thead><tr><th></th><th data-type="files"></th><th data-type="files"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Logo Color Black Horizontal</strong></td><td><a href="../.gitbook/assets/logo colour black.svg">logo colour black.svg</a></td><td><a href="../.gitbook/assets/logo colour black.png">logo colour black.png</a></td><td><a href="../.gitbook/assets/Frame 29.png">Frame 29.png</a></td></tr><tr><td><strong>Logo Color White Horizontal</strong></td><td></td><td></td><td></td></tr><tr><td><strong>Logo Color Black Horizontal</strong></td><td></td><td></td><td></td></tr><tr><td><strong>Logo Color Black Horizontal</strong></td><td></td><td></td><td></td></tr><tr><td><strong>Logo Color Black Vertical</strong></td><td></td><td></td><td></td></tr><tr><td><strong>Logo Color Black Vertical</strong></td><td></td><td></td><td></td></tr><tr><td><strong>Logo Color Black Vertical</strong></td><td></td><td></td><td></td></tr><tr><td><strong>Logo Color Black Vertical</strong></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
-
-
-
-## Spark name
-
-<table data-view="cards" data-full-width="false"><thead><tr><th></th><th data-type="files"></th><th data-type="files"></th><th data-type="files"></th></tr></thead><tbody><tr><td>Name White</td><td></td><td></td><td></td></tr><tr><td>Name Black</td><td></td><td></td><td></td></tr><tr><td>Typography</td><td></td><td></td><td></td></tr></tbody></table>
-
-## Spark logomark
-
-<table data-view="cards" data-full-width="false"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr></tbody></table>
+<table data-view="cards" data-full-width="false"><thead><tr><th></th><th data-type="files"></th><th data-type="files"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Logo Color Black Horizontal</strong></td><td><a href="../.gitbook/assets/logo colour black.svg">logo colour black.svg</a></td><td><a href="../.gitbook/assets/logo colour black.png">logo colour black.png</a></td><td><a href="../.gitbook/assets/Frame 29.png">Frame 29.png</a></td></tr><tr><td><strong>Logo Color White Horizontal</strong></td><td><a href="../.gitbook/assets/logo colour white.png">logo colour white.png</a></td><td><a href="../.gitbook/assets/logo colour white.svg">logo colour white.svg</a></td><td><a href="../.gitbook/assets/Frame 30.png">Frame 30.png</a></td></tr><tr><td><strong>Logo Black Horizontal</strong></td><td><a href="../.gitbook/assets/logo black.png">logo black.png</a></td><td><a href="../.gitbook/assets/logo black.svg">logo black.svg</a></td><td><a href="../.gitbook/assets/Frame 37.png">Frame 37.png</a></td></tr><tr><td><strong>Logo Color White Horizontal</strong></td><td><a href="../.gitbook/assets/logo white.png">logo white.png</a></td><td><a href="../.gitbook/assets/logo white.svg">logo white.svg</a></td><td><a href="../.gitbook/assets/Frame 36.png">Frame 36.png</a></td></tr><tr><td><strong>Logo Color Black Vertical</strong></td><td><a href="../.gitbook/assets/logo colour black vertical.png">logo colour black vertical.png</a></td><td><a href="../.gitbook/assets/logo colour black vertical.svg">logo colour black vertical.svg</a></td><td><a href="../.gitbook/assets/Frame 33.png">Frame 33.png</a></td></tr><tr><td><strong>Logo Color White Vertical</strong></td><td><a href="../.gitbook/assets/logo colour white vertical.png">logo colour white vertical.png</a></td><td><a href="../.gitbook/assets/logo colour white vertical.svg">logo colour white vertical.svg</a></td><td><a href="../.gitbook/assets/Frame 32.png">Frame 32.png</a></td></tr><tr><td><strong>Logo Black Vertical</strong></td><td><a href="../.gitbook/assets/logo black vertical.png">logo black vertical.png</a></td><td><a href="../.gitbook/assets/logo black vertical.svg">logo black vertical.svg</a></td><td><a href="../.gitbook/assets/Frame 35.png">Frame 35.png</a></td></tr><tr><td><strong>Logo White Vertical</strong></td><td><a href="../.gitbook/assets/logo white vertical.png">logo white vertical.png</a></td><td><a href="../.gitbook/assets/logo white vertical.svg">logo white vertical.svg</a></td><td><a href="../.gitbook/assets/Frame 34.png">Frame 34.png</a></td></tr></tbody></table>
 
 
 
-## Spark colors
+## Spark Logomark
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards" data-full-width="false"><thead><tr><th></th><th data-type="files"></th><th data-type="files"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Logomark Color</td><td><a href="../.gitbook/assets/logomark colour.png">logomark colour.png</a></td><td><a href="../.gitbook/assets/logomark colour.svg">logomark colour.svg</a></td><td><a href="../.gitbook/assets/Frame 40.png">Frame 40.png</a></td></tr><tr><td>Logomark Black</td><td><a href="../.gitbook/assets/logomark black.png">logomark black.png</a></td><td><a href="../.gitbook/assets/logomark black.svg">logomark black.svg</a></td><td><a href="../.gitbook/assets/Frame 42.png">Frame 42.png</a></td></tr><tr><td>Logomark White</td><td><a href="../.gitbook/assets/logomark white.png">logomark white.png</a></td><td><a href="../.gitbook/assets/logomark white.svg">logomark white.svg</a></td><td><a href="../.gitbook/assets/Frame 41.png">Frame 41.png</a></td></tr></tbody></table>
+
+## Spark Logotype
+
+<table data-view="cards" data-full-width="false"><thead><tr><th></th><th data-type="files"></th><th data-type="files"></th><th data-hidden data-type="files"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Name White</strong></td><td><a href="../.gitbook/assets/logotype white.png">logotype white.png</a></td><td><a href="../.gitbook/assets/logotype white.svg">logotype white.svg</a></td><td><a href="../.gitbook/assets/logotype black.png">logotype black.png</a></td><td><a href="../.gitbook/assets/Frame 38.png">Frame 38.png</a></td></tr><tr><td><strong>Name Black</strong></td><td><a href="../.gitbook/assets/logotype black.png">logotype black.png</a></td><td><a href="../.gitbook/assets/logotype black.svg">logotype black.svg</a></td><td><a href="../.gitbook/assets/logotype white.svg">logotype white.svg</a></td><td><a href="../.gitbook/assets/Frame 39.png">Frame 39.png</a></td></tr></tbody></table>
+
+## Spark Colors
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Orange #FFA900</td><td><a href="../.gitbook/assets/Frame 44.png">Frame 44.png</a></td></tr><tr><td>White #FFFFFF</td><td><a href="../.gitbook/assets/Frame 49.png">Frame 49.png</a></td></tr><tr><td>Black #1B1713</td><td><a href="../.gitbook/assets/Frame 45.png">Frame 45.png</a></td></tr></tbody></table>
