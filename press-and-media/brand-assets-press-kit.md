@@ -22,7 +22,7 @@
 
 ## Spark Colors
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Orange #FFA900</td><td><a href="../.gitbook/assets/Frame 44.png">Frame 44.png</a></td></tr><tr><td>White #FFFFFF</td><td><a href="../.gitbook/assets/Frame 49.png">Frame 49.png</a></td></tr><tr><td>Off-Black #1B1713</td><td><a href="../.gitbook/assets/Frame 45.png">Frame 45.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Orange #FFA900</td><td><a href="../.gitbook/assets/Frame 44.png">Frame 44.png</a></td></tr><tr><td>Off-Black #1B1713</td><td><a href="../.gitbook/assets/Frame 45.png">Frame 45.png</a></td></tr><tr><td>Dark Orange #F78E1E<br>Light Orange #F2A529</td><td><a href="../.gitbook/assets/orange gradient.png">orange gradient.png</a></td></tr></tbody></table>
 
 ## sDAI
 
