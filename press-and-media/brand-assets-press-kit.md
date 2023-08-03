@@ -24,4 +24,10 @@
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Orange #FFA900</td><td><a href="../.gitbook/assets/Frame 44.png">Frame 44.png</a></td></tr><tr><td>White #FFFFFF</td><td><a href="../.gitbook/assets/Frame 49.png">Frame 49.png</a></td></tr><tr><td>Off-Black #1B1713</td><td><a href="../.gitbook/assets/Frame 45.png">Frame 45.png</a></td></tr></tbody></table>
 
+## sDAI
+
+<table data-view="cards" data-full-width="false"><thead><tr><th></th><th data-type="files"></th><th data-type="files"></th><th data-hidden data-type="files"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>sDAI badge</strong></td><td><a href="../.gitbook/assets/Badge_Dai 2.png">Badge_Dai 2.png</a></td><td><a href="../.gitbook/assets/Badge_Dai 2.svg">Badge_Dai 2.svg</a></td><td><a href="../.gitbook/assets/logotype black.png">logotype black.png</a></td><td><a href="../.gitbook/assets/gitbook cover.png">gitbook cover.png</a></td></tr><tr><td><strong>sDAI logo</strong></td><td><a href="../.gitbook/assets/sDai logomark.png">sDai logomark.png</a></td><td><a href="../.gitbook/assets/sDai logomark.svg">sDai logomark.svg</a></td><td><a href="../.gitbook/assets/logotype white.svg">logotype white.svg</a></td><td><a href="../.gitbook/assets/gitbook cover s.png">gitbook cover s.png</a></td></tr></tbody></table>
+
+
+
 You can also find all the assets in this [Google Drive](https://drive.google.com/drive/folders/14y1Cau0dRW8enY8try2Jt8RKWfBdoDun?usp=sharing) folder.
