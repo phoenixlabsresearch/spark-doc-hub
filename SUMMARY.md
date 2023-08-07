@@ -14,6 +14,8 @@
 
 * [Spark Developer Docs](https://docs.sparkprotocol.io/developers/)
 * [Data Analytics](developers/data-analytics.md)
+* [Data Analytics](http://127.0.0.1:5000/o/M87y0aRsJ0WmomZWPwXF/s/0BfAQzyDERr0dJ3QKLp7/)
+* [Data Analytics 2.0](https://docs.sparkprotocol.io/data-analytics/)
 
 ## 👷 Ecosystem Actors
 
