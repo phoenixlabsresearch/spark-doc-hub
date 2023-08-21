@@ -6,7 +6,7 @@
 
 ## 📃 Governance
 
-* [Maker Governance Forum](https://forum.makerdao.com/c/two)
+* [Maker Governance Forum](https://forum.makerdao.com/c/subdaos/two/)
 * [Maker Governance Docs](https://manual.makerdao.com/)
 * [Grants & Bounties](https://docs.sparkprotocol.io/grants-and-bounties/)
 
