@@ -4,19 +4,22 @@
 
 ## 📃 Governance
 
-* [Spark Brand Assets / Press Kit](governance/brand-assets-press-kit.md)
-* [SparkDAO Discord](https://discord.gg/sparkdao)
-* [SparkDAO Forum](https://forum.makerdao.com/c/spark-subdao/84)
-* [Spark Protocol Twitter](https://twitter.com/spark\_protocol)
-* [MakerDAO Governance Docs](https://manual.makerdao.com/)
-* [MakerDAO Discord](https://discord.gg/3acSVM6fNn)
-* [MakerDAO Twitter](https://twitter.com/MakerDAO)
+* [SparkDAO](governance/sparkdao/README.md)
+  * [SparkDAO Discord](https://discord.gg/sparkdao)
+  * [SparkDAO Forum](https://forum.makerdao.com/c/spark-subdao/84)
+  * [Spark Protocol Twitter](https://twitter.com/spark\_protocol)
+  * [Spark Brand Assets / Press Kit](governance/sparkdao/brand-assets-press-kit.md)
+  * [SPK token](governance/sparkdao/spk-token.md)
+* [MakerDAO](governance/makerdao/README.md)
+  * [MakerDAO Governance Docs](https://manual.makerdao.com/)
+  * [MakerDAO Discord](https://discord.gg/3acSVM6fNn)
+  * [MakerDAO Twitter](https://twitter.com/MakerDAO)
+  * [MakerDAO Forum](https://forum.makerdao.com/)
 
-## 💻 Developers
+## 💻 Spark Protocol
 
-* [Grants & Bounties](https://docs.sparkprotocol.io/grants-and-bounties/)
-* [Spark FAQ](https://docs.sparkprotocol.io/faq)
 * [Spark Developer Docs](https://docs.sparkprotocol.io/developers/)
+* [Grants & Bounties](https://docs.sparkprotocol.io/grants-and-bounties/)
 * [Data Analytics](https://docs.sparkprotocol.io/data-analytics/)
 
 ## 👷 Ecosystem Actors
