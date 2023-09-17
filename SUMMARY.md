@@ -19,7 +19,6 @@
 ## 💻 Spark Protocol
 
 * [Spark Developer Docs](https://docs.sparkprotocol.io/developers/)
-* [Grants & Bounties](https://docs.sparkprotocol.io/grants-and-bounties/)
 * [Data Analytics](https://docs.sparkprotocol.io/data-analytics/)
 
 ## 👷 Ecosystem Actors
